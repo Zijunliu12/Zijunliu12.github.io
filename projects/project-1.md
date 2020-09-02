@@ -10,10 +10,3 @@ labels:
 
 summary: TBA
 ---
-
-<div class="ui small rounded images">
-
-</div>
-
-
-```
