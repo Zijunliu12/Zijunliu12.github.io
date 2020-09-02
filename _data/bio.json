@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zijun Liu",
-    "label": "Student",
+    "label": "Student - Shidler Undergraduate",
     "picture": "https://Zijunliu12.github.io/images/zi.jpg",
     "email": "Zijunliu@hawaii.edu",
     "phone": "N/A",
@@ -24,10 +24,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cooking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -36,7 +34,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial intelligence",
       "keywords": [
       ]
     }
@@ -47,7 +45,6 @@
       "level": "",
       "keywords": [
         "C++",
-        "Java",
         "Javascript",
       ]
     },
