@@ -19,7 +19,7 @@
         "network": "github",
         "username": "Zijunliu12",
         "url": "http://github.com/Zijunliu12"
-      },
+      }
     ]
   },
   "interests": [
@@ -45,7 +45,7 @@
       "level": "",
       "keywords": [
         "C++",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -93,7 +93,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": 
+      "highlights": ""
     }
   ],
   "awards": [
@@ -102,7 +102,7 @@
       "date": "2018",
       "awarder": "Center For Tomorrow's Leaders",
       "summary": ""
-    },
+    }
   ],
   "references": [
     {
